@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## What is the Data Science Initiative?
 
-You can use the [editor on GitHub](https://github.com/arieldeardorff/WebsiteTest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+UCSF Library’s Data Science Initiative (DSI) serves as a campus hub for education and support in data science. Our mission is to build computational and data skills in the UCSF community by providing education and resources to trainees, faculty, and staff. Come learn fundamental research skills, connect with others, and be empowered to engage in cutting edge biomedical research. See the catalog for a list of core Data Science workshops and materials. There are also additional materials online for self-study.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Key DSI Stats
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
